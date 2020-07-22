@@ -1,6 +1,6 @@
-attrition<-read.csv("C:/Users/nhcl-n2/Documents/R Project - Attrition/Attrition.CSV")
-arg<-read.csv("C:/Users/nhcl-n2/Documents/R Project - Attrition/Attrition.CSV")
-att<-read.csv("C:/Users/nhcl-n2/Documents/R Project - Attrition/Attrition.CSV")
+attrition<-read.csv("path/Attrition.CSV")
+arg<-read.csv("path/Attrition.CSV")
+att<-read.csv("path/Attrition.CSV")
 suppressPackageStartupMessages
 
 library(tidyverse)
